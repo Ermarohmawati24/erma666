@@ -135,6 +135,7 @@
             android:onClick="display"
             android:text="KIRIM" />
 
+
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
